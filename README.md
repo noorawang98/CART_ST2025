@@ -58,29 +58,25 @@ Tools for multi-resolution spatial deconvolution using annotated cell types:
    • **CARD**:  
      ```plaintext
      Ma, Y., & Zhou, X. (2021). Spatially informed cell-type deconvolution for spatial transcriptomics. 
-     Nature Biotechnology. https://doi.org/10.1038/s41587-021-01070-8
-
+     Nature Biotechnology. https://doi.org/10.1038/s41587-021-01070-8 
      ```  
    • **DestVI/scVI**:  
      ```plaintext
      Gayoso, A., et al. (2022). Joint probabilistic modeling of single-cell and spatial transcriptomes 
      with scvi-tools. Nature Methods. https://doi.org/10.1038/s41592-021-01326-x
-
      ```  
    • **CIBERSORTx**:  
      ```plaintext
      Newman, A.M., et al. (2019). Determining cell type abundance and expression from bulk tissues with 
      digital cytometry. Nature Biotechnology. https://doi.org/10.1038/s41587-019-0114-2
-
      ```  
    • **Single-cell analysis (Seurat/Scanpy)**:  
      ```plaintext
      Satija, R., et al. (2015). Spatial reconstruction of single-cell gene expression data. 
      Nature Biotechnology. https://doi.org/10.1038/nbt.3192
-
+        
      Wolf, F.A., et al. (2018). SCANPY: Large-scale single-cell gene expression data analysis. 
      Genome Biology. https://doi.org/10.1186/s13059-017-1382-0
-
      ```  
 
 1. **Data Sources**:  
@@ -88,9 +84,7 @@ Tools for multi-resolution spatial deconvolution using annotated cell types:
      ```plaintext
      Li, T., et al. (2020). TIMER2.0 for analysis of tumor-infiltrating immune cells. 
      Nucleic Acids Research. https://doi.org/10.1093/nar/gkaa407
-
      ```  
-
 ---
 ### **Citation**
 if you use our in-house scripts,please cite DOI(https://github.com/marramWang/CART_ST2025/edit/main/README.md). and processed data is available at [Spatial multi-omic profiling identifies a stroma-immune barrier driven by CCR1⁺ myeloid impeding CAR-T therapy efficacy against tumors](https://figshare.com/account/home#/collections/7744679)
