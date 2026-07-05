@@ -53,15 +53,15 @@ Tools for multi-resolution spatial deconvolution using annotated cell types:
 • **Data Sources**:  
   • Expression/meta files: Downloaded from [TIMER2.0](https://cistrome.shinyapps.io/timer/).
 ---
-# 2026.7.5 Upate Spatial analysis scripts
+## 2026.7.5 Upate Spatial analysis scripts
 
-## DestVI batch deconvolution scripts
+### DestVI batch deconvolution scripts
 
 - [batch_destvi_bin50_cli_opt.py](./batch_destvi_bin50_cli_opt.py): batch run DestVI for spatial cell type deconvolution and mapping.
 - [batch_destvi_bin50_cli_opt.cellbin.py](./batch_destvi_bin50_cli_opt.cellbin.py): batch run DestVI for cellbin-based spatial cell type deconvolution and mapping.
 - [bash_destvi_0523.sh](./bash_destvi_0523.sh): example shell script showing how to run the two Python scripts above.
 
-## Notebooks
+### Notebooks
 
 - [GD2_MICS.ipynb](./GD2_MICS.ipynb): MACSima neighborhood analysis.
 - [split_cellbin.ipynb](./split_cellbin.ipynb): split stitched Stereo-seq cellbin tiles.
@@ -72,25 +72,35 @@ Tools for multi-resolution spatial deconvolution using annotated cell types:
    • **CARD**:  
      ```plaintext
      Ma, Y., & Zhou, X. (2021). Spatially informed cell-type deconvolution for spatial transcriptomics. 
-     Nature Biotechnology. https://doi.org/10.1038/s41587-021-01070-8 
+     Nature Biotechnology. https://doi.org/10.1038/s41587-021-01070-8
+        
+         
      ```  
    • **DestVI/scVI**:  
      ```plaintext
      Gayoso, A., et al. (2022). Joint probabilistic modeling of single-cell and spatial transcriptomes 
      with scvi-tools. Nature Methods. https://doi.org/10.1038/s41592-021-01326-x
+        
+        
      ```  
    • **CIBERSORTx**:  
      ```plaintext
      Newman, A.M., et al. (2019). Determining cell type abundance and expression from bulk tissues with 
      digital cytometry. Nature Biotechnology. https://doi.org/10.1038/s41587-019-0114-2
+        
+        
      ```  
    • **Single-cell analysis (Seurat/Scanpy)**:  
      ```plaintext
      Satija, R., et al. (2015). Spatial reconstruction of single-cell gene expression data. 
      Nature Biotechnology. https://doi.org/10.1038/nbt.3192
         
+        
+        
      Wolf, F.A., et al. (2018). SCANPY: Large-scale single-cell gene expression data analysis. 
      Genome Biology. https://doi.org/10.1186/s13059-017-1382-0
+        
+        
      ```  
 
 1. **Data Sources**:  
@@ -98,6 +108,8 @@ Tools for multi-resolution spatial deconvolution using annotated cell types:
      ```plaintext
      Li, T., et al. (2020). TIMER2.0 for analysis of tumor-infiltrating immune cells. 
      Nucleic Acids Research. https://doi.org/10.1093/nar/gkaa407
+        
+        
  
      ```  
 ---
