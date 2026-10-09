@@ -57,15 +57,15 @@ Tools for multi-resolution spatial deconvolution using annotated cell types:
 
 ### DestVI batch deconvolution scripts
 
-- [batch_destvi_bin50_cli_opt.py](./batch_destvi_bin50_cli_opt.py): batch run DestVI for spatial cell type deconvolution and mapping.
-- [batch_destvi_bin50_cli_opt.cellbin.py](./batch_destvi_bin50_cli_opt.cellbin.py): batch run DestVI for cellbin-based spatial cell type deconvolution and mapping.
-- [bash_destvi_0523.sh](./bash_destvi_0523.sh): example shell script showing how to run the two Python scripts above.
+- [batch_destvi_bin50_cli_opt.py](imaging%20analysis/batch_destvi_bin50_cli_opt.py): batch run DestVI for spatial cell type deconvolution and mapping.
+- [batch_destvi_bin50_cli_opt.cellbin.py](imaging%20analysis/batch_destvi_bin50_cli_opt.cellbin.py): batch run DestVI for cellbin-based spatial cell type deconvolution and mapping.
+- [bash_destvi_0523.sh](imaging%20analysis/bash_destvi_0523.sh): example shell script showing how to run the two Python scripts above.
 
 ### Notebooks
 
-- [GD2_MICS.ipynb](./GD2_MICS.ipynb): MACSima neighborhood analysis.
-- [split_cellbin.ipynb](./split_cellbin.ipynb): split stitched Stereo-seq cellbin tiles.
-- [sopa_squidpy.ipynb](./sopa_squidpy.ipynb): use Sopa to process MACSima preprocessed images, convert data to h5ad format, and perform Squidpy spatial analysis.
+- [GD2_MICS.ipynb](imaging%20analysis/GD2_MICS.ipynb): MACSima neighborhood analysis.
+- [split_cellbin.ipynb](imaging%20analysis/split_cellbin.ipynb): split stitched Stereo-seq cellbin tiles.
+- [sopa_squidpy.ipynb](imaging%20analysis/sopa_squidpy.ipynb): use Sopa to process MACSima preprocessed images, convert data to h5ad format, and perform Squidpy spatial analysis.
 ----
 ### **Reference**  
 1. **Key Methodology Citations**:  
